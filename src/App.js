@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-import { useEffect, useState } from 'react';
+import {useState } from 'react';
 import './App.css';
 import Form from './Components/Form';
 import WeatherComp from './Components/WeatherComp';
